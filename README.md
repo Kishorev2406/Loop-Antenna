@@ -1,0 +1,1 @@
+A Loop Antenna is a radio antenna consisting of a conducting wire or metal loop bent into a circular, square, or rectangular shape. It is widely used in wireless communication systems for transmitting and receiving electromagnetic waves. The current flowing through the loop generates a magnetic field, which radiates electromagnetic energy into space.
